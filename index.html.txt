@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>For Pooja ❤️</title>
+    <style>
+        body {
+            text-align: center;
+            background: linear-gradient(pink, lightcoral);
+            font-family: Arial;
+            padding-top: 100px;
+            color: white;
+        }
+        h1 {
+            font-size: 40px;
+        }
+        p {
+            font-size: 22px;
+            width: 70%;
+            margin: auto;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>I Love You Pooja ❤️</h1>
+
+    <p>
+        Pooja nu peru ketta odane oru calm feeling varudhu…<br><br>
+        Aana unna paatha apram dhaan puriyudhu, adhu just peru illa, full ah oru vibe 🙈❤️<br><br>
+        Un sirippu romba simple ah irundhaalum, adhu ennoda whole day ah happy aa maathidum…<br><br>
+        Honestly sollanum na, Pooja nu peru kitta konjam special feel irukku 🫂🫣
+    </p>
+
+</body>
+</html>
